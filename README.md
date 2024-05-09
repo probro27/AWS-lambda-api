@@ -2,7 +2,7 @@
 
 This is a sample project to demonstrate how to build a REST API using AWS Lambda and API Gateway.
 
-URL: [https://v8u02y61t5.execute-api.us-east-2.amazonaws.com/test/DynamoDBManager](https://v8u02y61t5.execute-api.us-east-2.amazonaws.com/test/DynamoDBManager)
+URL: [Not deployed at the moment](https://v8u02y61t5.execute-api.us-east-2.amazonaws.com/test/DynamoDBManager)
 
 ## Structure
 
